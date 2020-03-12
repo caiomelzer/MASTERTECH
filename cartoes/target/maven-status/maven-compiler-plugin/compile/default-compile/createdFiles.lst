@@ -1,0 +1,14 @@
+br/com/mastertech/aula/itau/cartoes/cartao/service/CartaoService.class
+br/com/mastertech/aula/itau/cartoes/cartao/client/ClienteClient.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/dto/response/CartaoDetailsResponse.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/dto/request/CreateCartaoRequest.class
+br/com/mastertech/aula/itau/cartoes/CartoesApplication.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/CartaoMapper.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/dto/response/CartaoAtivoChangedResponse.class
+br/com/mastertech/aula/itau/cartoes/cartao/client/dto/ClienteDTO.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/Cartao.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/dto/response/CartaoCreatedResponse.class
+br/com/mastertech/aula/itau/cartoes/cartao/repository/CartaoRepository.class
+br/com/mastertech/aula/itau/cartoes/cartao/controller/CartaoController.class
+br/com/mastertech/aula/itau/cartoes/cartao/model/dto/request/CartaoChangeAtivoRequest.class
+br/com/mastertech/aula/itau/cartoes/cartao/client/dto/ClienteNotFoundException.class
